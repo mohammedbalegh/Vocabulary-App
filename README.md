@@ -18,7 +18,7 @@
 - In the cards view i added:
     - Swipe up to mark the card as done.
     - The option to change the selected pronunciation accent.
-    - Days streak counter to encourage the user to come back every day.
+    - Daily streak counter to encourage the user to come back every day.
 
 ## 🎯 Key Features Implemented
 
